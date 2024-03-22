@@ -1,17 +1,9 @@
-# Welcome to MkDocs
+# Welcome
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+This is my thoughts in software development. It has development blogs and technical articles.
 
-## Commands
+To categorize the blogs and articles, I plan to use three dimensional tags:
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+- Development phases: study, plan, design, code, test, operation.
+- Technology fields: programming languages (C#, JS, TS, Rust), db(SQLite, Firebase, PostgreSQL), network (message queue, channel, RPC, Socket), compiler, platforms (.net, asp.net), crypto, algorithm ...
+- Projects: for project-related blogs, add the project name as one tag.
